@@ -36,3 +36,7 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 
 ![image](images/7.png)
 
+## Get Specific Edgets 
+
+![image](images/8.png)
+
