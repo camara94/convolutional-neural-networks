@@ -62,3 +62,5 @@ Valid:
 ## Summary Of Convoultion
 
 ![image](images/14.png)
+
+## Technical Note On Cross-correlation vs. Convolution
