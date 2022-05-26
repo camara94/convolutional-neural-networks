@@ -64,3 +64,7 @@ Valid:
 ![image](images/14.png)
 
 ## Technical Note On Cross-correlation vs. Convolution
+
+## Convolution In Math Textbook
+
+![image](images/15.png)
