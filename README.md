@@ -72,3 +72,5 @@ Valid:
 ## Convolutions On RGB Images
 
 ![image](images/16.png)
+
+![image](images/17.png)
