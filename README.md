@@ -43,3 +43,10 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 ## Padding Image
 
 ![image](images/9.png)
+
+## Valid And Same Convolutions
+Valid: 
+* nxn * fxf -> n-f+1  x n-f+1 
+* 6x6 * 3x3 -> 4x4
+
+![image](images/11.png)
