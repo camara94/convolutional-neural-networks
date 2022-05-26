@@ -19,3 +19,5 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 ## Computer Vision Problems
 
 ![image](images/1.png)
+
+![image](images/2.png)
