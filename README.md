@@ -68,3 +68,7 @@ Valid:
 ## Convolution In Math Textbook
 
 ![image](images/15.png)
+
+## Convolutions On RGB Images
+
+![image](images/16.png)
