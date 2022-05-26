@@ -58,3 +58,7 @@ Valid:
 ## Strided Formula 
 
 ![image](images/13.png)
+
+## Summary Of Convoultion
+
+![image](images/14.png)
