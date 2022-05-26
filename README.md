@@ -15,3 +15,7 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 * Build and train a ConvNet in TensorFlow for a binary classification problem
 * Build and train a ConvNet in TensorFlow for a multiclass classification problem
 * Explain different use cases for the Sequential and Functional APIs
+
+## Computer Vision Problems
+
+![image](images/1.png)
