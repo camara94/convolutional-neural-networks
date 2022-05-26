@@ -54,3 +54,7 @@ Valid:
 ## Strided Convolution
 
 ![image](images/12.png)
+
+## Strided Formula 
+
+![image](images/13.png)
