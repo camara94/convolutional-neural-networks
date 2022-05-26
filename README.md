@@ -50,3 +50,7 @@ Valid:
 * 6x6 * 3x3 -> 4x4
 
 ![image](images/11.png)
+
+## Strided Convolution
+
+![image](images/12.png)
