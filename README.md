@@ -25,4 +25,5 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 ## Vertical Edge Detection
 
 ![image](images/3.png)
+![image](images/4.png)
 
