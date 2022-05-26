@@ -32,3 +32,7 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 
 ![image](images/6.png)
 
+## Learning to detect edgets
+
+![image](images/7.png)
+
