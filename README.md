@@ -28,3 +28,7 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 ![image](images/4.png)
 ![image](images/5.png)
 
+## Vertical Edget
+
+![image](images/6.png)
+
