@@ -21,3 +21,4 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 ![image](images/1.png)
 
 ![image](images/2.png)
+
