@@ -74,3 +74,9 @@ Valid:
 ![image](images/16.png)
 
 ![image](images/17.png)
+
+![image](images/18.png)
+
+## Multiple Filters
+
+![image](images/19.png)
