@@ -80,3 +80,5 @@ Valid:
 ## Multiple Filters
 
 ![image](images/19.png)
+
+![image](images/20.png)
