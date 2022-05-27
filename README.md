@@ -86,3 +86,7 @@ Valid:
 ## Example Of A Layer
 
 ![image](images/22.png)
+
+## Exercise
+
+![image](images/23.png)
