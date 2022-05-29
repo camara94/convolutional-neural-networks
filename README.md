@@ -90,3 +90,7 @@ Valid:
 ## Exercise
 
 ![image](images/23.png)
+
+## Summary Of Convolution
+
+![image](images/24.png)
