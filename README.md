@@ -94,3 +94,7 @@ Valid:
 ## Summary Of Convolution
 
 ![image](images/24.png)
+
+## Pooling Layer: Max pooling
+
+![image](images/25.png)
