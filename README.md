@@ -104,3 +104,7 @@ Valid:
 ![image](images/26.png)
 
 ![image](images/27.png)
+
+## Number of Parameters
+
+![image](images/28.png)
