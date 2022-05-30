@@ -102,3 +102,5 @@ Valid:
 ## Summary of MaxPooling
 
 ![image](images/26.png)
+
+![image](images/27.png)
