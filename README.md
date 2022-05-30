@@ -108,3 +108,14 @@ Valid:
 ## Number of Parameters
 
 ![image](images/28.png)
+
+Here are the 5 typos:
+
+1. 208 should be (5*5*3 + 1) * 8 = 608
+2. 416 should be (5*5*8 + 1) * 16 = 3216
+3.  In the FC3, 48001 should be 400*120 + 120 = 48120, since the bias should have 120 parameters, not 1
+4.  Similarly, in the FC4, 10081 should be 120*84 + 84 (not 1) = 10164
+
+(Here, the bias is for the fully connected layer.  In fully connected layers, there will be one bias for each neuron, so the bias become In FC3 there were 120 neurons so 120 biases.)
+
+5. Finally, in the softmax, 841 should be 84*10 + 10 = 850
