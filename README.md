@@ -123,3 +123,5 @@ Here are the 5 typos:
 ## Why Use Convolution
 
 ![image](images/29.png)
+
+![image](images/30.png)
