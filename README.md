@@ -119,3 +119,7 @@ Here are the 5 typos:
 (Here, the bias is for the fully connected layer.  In fully connected layers, there will be one bias for each neuron, so the bias become In FC3 there were 120 neurons so 120 biases.)
 
 5. Finally, in the softmax, 841 should be 84*10 + 10 = 850
+
+## Why Use Convolution
+
+![image](images/29.png)
