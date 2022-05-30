@@ -98,3 +98,7 @@ Valid:
 ## Pooling Layer: Max pooling
 
 ![image](images/25.png)
+
+## Summary of MaxPooling
+
+![image](images/26.png)
