@@ -125,3 +125,6 @@ Here are the 5 typos:
 ![image](images/29.png)
 
 ![image](images/30.png)
+
+This is based on the equation:
+
