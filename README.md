@@ -141,3 +141,6 @@ This is based on the equation:
 ## AlexNext
 
 ![image](images/35.png)
+
+## VGG-16
+![image](images/36.png)
