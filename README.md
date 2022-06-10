@@ -153,3 +153,5 @@ This is based on the equation:
 ## Residual Network
 
 ![image](images/38.png)
+
+![image](images/39.png)
