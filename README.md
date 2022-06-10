@@ -138,3 +138,6 @@ This is based on the equation:
 
 ![image](images/34.png)
 
+## AlexNext
+
+![image](images/35.png)
