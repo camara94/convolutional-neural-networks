@@ -161,3 +161,7 @@ This is based on the equation:
 ![image](images/41.png)
 
 ![image](images/42.png)
+
+## The Problem of computational cost
+
+![image](images/43.png)
