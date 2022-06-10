@@ -149,3 +149,7 @@ This is based on the equation:
 ## Residual block
 
 ![image](images/37.png)
+
+## Residual Network
+
+![image](images/38.png)
