@@ -144,3 +144,8 @@ This is based on the equation:
 
 ## VGG-16
 ![image](images/36.png)
+
+
+## Residual block
+
+![image](images/37.png)
