@@ -129,3 +129,7 @@ Here are the 5 typos:
 This is based on the equation:
 
 ![image](images/31.png)
+
+## Outline
+
+![image](images/32.png)
