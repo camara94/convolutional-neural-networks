@@ -136,5 +136,5 @@ This is based on the equation:
 
 ## LeNet-5
 
-![image](images/33.png)
+![image](images/34.png)
 
