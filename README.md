@@ -134,3 +134,7 @@ This is based on the equation:
 
 ![image](images/32.png)
 
+## LeNet-5
+
+![image](images/33.png)
+
