@@ -165,3 +165,7 @@ This is based on the equation:
 ## The Problem of computational cost
 
 ![image](images/43.png)
+
+## 1X1 Convolution
+
+![image](images/44.png)
