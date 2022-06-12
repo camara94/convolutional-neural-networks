@@ -208,4 +208,6 @@ This is based on the equation:
 
 ![image](images/61.png)
 
-![image](images/62.png)
+![image](images/63.png)
+
+![image](images/64.png)
