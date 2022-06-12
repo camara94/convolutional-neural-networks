@@ -184,6 +184,8 @@ This is based on the equation:
 
 ## Mobile Net
 
+![image](images/55.png)
+
 ![image](images/49.png)
 
 ![image](images/50.png)
@@ -193,3 +195,5 @@ This is based on the equation:
 ![image](images/52.png)
 
 ![image](images/53.png)
+
+![image](images/54.png)
