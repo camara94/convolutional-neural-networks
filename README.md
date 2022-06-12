@@ -169,3 +169,7 @@ This is based on the equation:
 ## 1X1 Convolution
 
 ![image](images/44.png)
+
+## Inception Module
+
+![image](images/46.png)
