@@ -182,4 +182,6 @@ This is based on the equation:
 
 [https://knowyourmeme.com/memes/we-need-to-go-deeper](https://knowyourmeme.com/memes/we-need-to-go-deeper)
 
-## 
+## Mobile Net
+
+![image](images/49.png)
