@@ -187,3 +187,5 @@ This is based on the equation:
 ![image](images/49.png)
 
 ![image](images/50.png)
+
+![image](images/51.png)
