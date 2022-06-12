@@ -173,3 +173,7 @@ This is based on the equation:
 ## Inception Module
 
 ![image](images/46.png)
+
+## Inception Network
+
+![image](images/47.png)
