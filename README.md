@@ -204,4 +204,4 @@ This is based on the equation:
 
 ![image](images/58.png)
 
-![image](images/59.png)
+![image](images/60.png)
