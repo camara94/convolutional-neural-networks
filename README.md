@@ -185,3 +185,5 @@ This is based on the equation:
 ## Mobile Net
 
 ![image](images/49.png)
+
+![image](images/50.png)
