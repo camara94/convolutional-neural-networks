@@ -225,3 +225,7 @@ This is based on the equation:
 ### 2. Random Cropping
 
 ![image](images/69.png)
+
+### 3. Color Shifting
+
+![image](images/70.png)
