@@ -229,3 +229,7 @@ This is based on the equation:
 ### 3. Color Shifting
 
 ![image](images/70.png)
+
+## Implementing Distortions During Training
+
+![image](images/71.png)
