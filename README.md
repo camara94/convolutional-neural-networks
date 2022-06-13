@@ -219,4 +219,9 @@ This is based on the equation:
 ## Common Augmentation Method
 
 ### 1. Mirroring
+
 ![image](images/67.png)
+
+### 2. Random Cropping
+
+![image](images/68.png)
