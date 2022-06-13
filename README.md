@@ -224,4 +224,4 @@ This is based on the equation:
 
 ### 2. Random Cropping
 
-![image](images/68.png)
+![image](images/69.png)
