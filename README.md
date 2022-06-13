@@ -215,3 +215,8 @@ This is based on the equation:
 ![image](images/65.png)
 
 ![image](images/66.png)
+
+## Common Augmentation Method
+
+### 1. Mirroring
+![image](images/67.png)
