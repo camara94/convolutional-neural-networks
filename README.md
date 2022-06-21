@@ -235,3 +235,7 @@ This is based on the equation:
 ![image](images/71.png)
 
 ## Object Localization
+
+### Defining the target label y
+
+![image](images/72.png)
