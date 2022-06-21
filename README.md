@@ -233,3 +233,5 @@ This is based on the equation:
 ## Implementing Distortions During Training
 
 ![image](images/71.png)
+
+## Object Localization
