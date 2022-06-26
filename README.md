@@ -239,3 +239,5 @@ This is based on the equation:
 ### Defining the target label y
 
 ![image](images/72.png)
+
+![image](images/73.png)
