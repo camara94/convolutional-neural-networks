@@ -281,3 +281,5 @@ This is based on the equation:
 ![image](images/92.png)
 
 ![image](images/93.png)
+
+![image](images/94.png)
