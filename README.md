@@ -277,3 +277,5 @@ This is based on the equation:
 ![image](images/90.png)
 
 ![image](images/91.png)
+
+![image](images/92.png)
