@@ -299,3 +299,6 @@ This is based on the equation:
 ![image](images/100.png)
 
 ![image](images/101.png)
+
+
+![image](images/102.png)
