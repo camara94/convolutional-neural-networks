@@ -295,3 +295,5 @@ This is based on the equation:
 ## Face verification vs. face recognition
 
 ![image](images/99.png)
+
+![image](images/100.png)
