@@ -312,3 +312,5 @@ This is based on the equation:
 ![image](images/106.png)
 
 ![image](images/107.png)
+
+![image](images/108.png)
